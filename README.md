@@ -18,5 +18,5 @@ I believe that the reason is that New York is a famous city to tour; therefore, 
 Also, JFK airport is one of the biggest airports in the US that connects to many different states. 
 
 ## Summary and Implication
-COVID 19 cases were high in the major cities. Therefore, the US should ban other foreigners from coming into the country, and residents of the major cities should strictly participate in social distancing. 
+COVID 19 cases were high in the major cities. Therefore, the US should ban other foreigners from coming into the country, and residents of the major cities should strictly participate in social distancing. By looking at these data visualizations of COVID 19, government leaders should plan future actions in order to stop the spread. The state governors should give these data resources to citizens so that they recognize the severity of the pandemic in their own state. 
 
