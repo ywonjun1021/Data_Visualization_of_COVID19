@@ -12,6 +12,7 @@ Now, we will look at the state that has one of the highest numbers of cases.
 
 ### New York
 ![alt](https://github.com/ywonjun1021/Data_Visualization_of_COVID19/blob/master/New%20York.png)
+
 New York is one of the states that have the most coronavirus cases.
 I believe that the reason is that New York is a famous city to tour; therefore, many foreigners probably traveled to New York to escape the pandemic in their own countries. 
 Also, JFK airport is one of the biggest airports in the US that connects to many different states. 
