@@ -7,3 +7,8 @@ Recently, COVID 19 spread across the United States, causing numerous cases, inju
 Using [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), [New York Times](https://github.com/nytimes/covid-19-data), [US County](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json) data, I created the choropleth gif map that shows the number of cases. 
 
 ![alt](https://github.com/ywonjun1021/Data_Visualization_of_COVID19/blob/master/choropleth.gif)
+The map represents the reported cases per 1,000 people in US counties.
+
+Now, we will look in depth of a state that has one of the highest number of cases.
+
+
